@@ -1,2 +1,2 @@
-# PasswardGenerator_C-
+# PasswardGenerator_C++
 Random password generator with C++
